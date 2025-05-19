@@ -1,0 +1,12 @@
+{
+  "displayName" : "Location",
+  "author" : ["Zubair Zulfiqar"],
+  "contributor" : [],
+  "supportedAgent" : ["Windows"],
+  "version" : "2.0",
+  "licence" : "GPLv2",
+  "description" : {
+    "fr" : "Remonte la liste des pilotes installés",
+    "en" : "Retrieve list of installed drivers"
+  }
+}
